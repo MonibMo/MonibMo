@@ -1,18 +1,18 @@
 <div align="center">
 
-<!-- ═══════════════════════════  HEADER BANNER  ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════  HEADER BANNER  ═══════════════════════════════════════════════════ -->
 
 [![Header](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=48&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=90&lines=Monib+Mokhtari)](https://github.com/MonibMo)
 
 [![Subtitle](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=99999&color=A8D8E0&center=true&vCenter=true&width=800&height=30&lines=CEO+%40+Micromed+%7C+Embedded+Rust+Engineer+%7C+Electronics+%26+PCB+Designer)](https://github.com/MonibMo)
 
-<!-- ═══════════════════════════  TYPING SVG  ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════  TYPING SVG  ═══════════════════════════════════════════════════ -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=58C4DC&center=true&vCenter=true&multiline=false&random=false&width=700&lines=Embedded+Systems+Architect+%F0%9F%A6%80;RTIC+v2+Expert+%7C+Real-Time+Firmware+Engineer;Analog+%26+Digital+Electronics+Specialist;Schematic+%26+PCB+Designer+%F0%9F%96%A7;Industrial+Microcontroller+Systems+%F0%9F%8F%AD;Computer+Architecture+%26+Embedded+OS+Patterns)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- ═══════════════════════════  PROFILE VIEWS & SOCIAL  ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════  PROFILE VIEWS & SOCIAL  ═══════════════════════════════════════════════════ -->
 
 [![Profile Views](https://komarev.com/ghpvc/?username=MonibMo&label=Profile+Views&color=0e75b6&style=for-the-badge)](https://github.com/MonibMo)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Monib%20Mokhtari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monib-mokhtari-148102390)
@@ -22,7 +22,7 @@
 
 ---
 
-<!-- ═══════════════════════════  ABOUT  ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════  ABOUT  ═══════════════════════════════════════════════════ -->
 
 ## 🧠 About Me
 
@@ -71,7 +71,7 @@ mod app {
 
 ---
 
-<!-- ═══════════════════════════  SKILL BARS  ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════  SKILL BARS  ═══════════════════════════════════════════════════ -->
 
 ## 🔬 Core Competencies
 
@@ -92,7 +92,7 @@ mod app {
 
 ---
 
-<!-- ═══════════════════════════  TECH STACK  ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════  TECH STACK  ═══════════════════════════════════════════════════ -->
 
 ## ⚙️ Tech Stack & Toolbox
 
@@ -141,7 +141,7 @@ mod app {
 
 ---
 
-<!-- ═══════════════════════════  EXPERTISE DEEP DIVE  ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════  EXPERTISE DEEP DIVE  ═══════════════════════════════════════════════════ -->
 
 ## 🏗️ Areas of Deep Expertise
 
@@ -222,7 +222,7 @@ mod app {
 
 ---
 
-<!-- ═══════════════════════════  OPEN SOURCE  ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════  OPEN SOURCE  ═══════════════════════════════════════════════════ -->
 
 ## 📦 Open Source Projects
 
@@ -233,18 +233,9 @@ mod app {
 
 </div>
 
-### 🔩 Rotary\_Library
-
-> **`#[no_std]` Rust crate for rotary encoders** — built on `embedded-hal 4.x`. Supports debouncing, velocity sensing, and direction detection. Deterministic and ISR-safe, runs on any HAL-compliant embedded target.
-
-[![View on GitHub](https://img.shields.io/badge/GitHub-Rotary__Library-181717?style=flat-square&logo=github)](https://github.com/MonibMo/Rotary_Library)
-![Rust](https://img.shields.io/badge/Rust-no__std-black?style=flat-square&logo=rust)
-![embedded-hal](https://img.shields.io/badge/embedded--hal-4.x-orange?style=flat-square)
-![RTIC](https://img.shields.io/badge/RTIC%20v2-compatible-5c2d91?style=flat-square)
-
 ---
 
-<!-- ═══════════════════════════  GITHUB STATS  ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════  GITHUB STATS  ═══════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
@@ -263,7 +254,7 @@ mod app {
 
 ---
 
-<!-- ═══════════════════════════  KNOWLEDGE MAP  ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════  KNOWLEDGE MAP  ═══════════════════════════════════════════════════ -->
 
 ## 🗺️ Knowledge Map
 
@@ -298,7 +289,7 @@ mod app {
 
 ---
 
-<!-- ═══════════════════════════  PHILOSOPHY  ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════  PHILOSOPHY  ═══════════════════════════════════════════════════ -->
 
 ## 💡 Engineering Philosophy
 
@@ -323,7 +314,7 @@ fn engineer_creed() {
 
 ---
 
-<!-- ═══════════════════════════  CONNECT  ═══════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════  CONNECT  ═══════════════════════════════════════════════════ -->
 
 ## 🤝 Let's Connect
 
