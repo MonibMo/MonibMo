@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════════════  HEADER BANNER  ═══════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Monib%20Mokhtari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CEO%20%40%20Micromed%20%7C%20Embedded%20Rust%20Engineer%20%7C%20Electronics%20%26%20PCB%20Designer&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Monib%20Mokhtari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CEO%20%40%20Micromed%20%7C%20Embedded%20Rust%20Engineer%20%7C%20Electronics%20%26%20PCB%20Designer&descAlignY=62&descSize=16" width="100%"/>
 
 <!-- ═══════════════════════════  TYPING SVG  ═══════════════════════════ -->
 
@@ -100,7 +100,6 @@ mod app {
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🧱 Embedded Frameworks & Crates
 
@@ -123,8 +122,8 @@ mod app {
 
 ### 🖥️ Electronics & Hardware Design
 
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
 ![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 ![LTspice](https://img.shields.io/badge/LTspice-Simulation-8B0000?style=for-the-badge&logoColor=white)
 ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-Debug-2c5364?style=for-the-badge&logoColor=white)
 ![JTAG/SWD](https://img.shields.io/badge/JTAG%20%2F%20SWD-Debugging-555?style=for-the-badge&logoColor=white)
@@ -348,7 +347,7 @@ fn engineer_creed() {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 *Built with* 🦀 *Rust — memory-safe from header to footer.*
 
