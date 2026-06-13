@@ -2,7 +2,9 @@
 
 <!-- ═══════════════════════════  HEADER BANNER  ═══════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Monib%20Mokhtari&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CEO%20%40%20Micromed%20%7C%20Embedded%20Rust%20Engineer%20%7C%20Electronics%20%26%20PCB%20Designer&descAlignY=62&descSize=16" width="100%"/>
+[![Header](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=48&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=90&lines=Monib+Mokhtari)](https://github.com/MonibMo)
+
+[![Subtitle](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=99999&color=A8D8E0&center=true&vCenter=true&width=800&height=30&lines=CEO+%40+Micromed+%7C+Embedded+Rust+Engineer+%7C+Electronics+%26+PCB+Designer)](https://github.com/MonibMo)
 
 <!-- ═══════════════════════════  TYPING SVG  ═══════════════════════════ -->
 
@@ -226,15 +228,19 @@ mod app {
 
 <div align="center">
 
-[![Rotary Library](https://github-readme-stats.vercel.app/api/pin/?username=MonibMo&repo=Rotary_Library&theme=github_dark&border_color=58C4DC&title_color=58C4DC&icon_color=f97316)](https://github.com/MonibMo/Rotary_Library)
-[![hd44780-embedded-hal](https://github-readme-stats.vercel.app/api/pin/?username=MonibMo&repo=hd44780-embedded-hal&theme=github_dark&border_color=58C4DC&title_color=58C4DC&icon_color=f97316)](https://github.com/MonibMo/hd44780-embedded-hal)
+[![Rotary Library](https://github-readme-stats.vercel.app/api/pin/?username=MonibMo&repo=Rotary_Library&theme=github_dark&border_color=58C4DC&title_color=58C4DC&icon_color=f97316&show_owner=true)](https://github.com/MonibMo/Rotary_Library)
+[![hd44780-embedded-hal](https://github-readme-stats.vercel.app/api/pin/?username=MonibMo&repo=hd44780-embedded-hal&theme=github_dark&border_color=58C4DC&title_color=58C4DC&icon_color=f97316&show_owner=true)](https://github.com/MonibMo/hd44780-embedded-hal)
 
 </div>
 
-### 🔩 Rotary_Library
-> A Rust `#[no_std]` crate for rotary encoders, built on `embedded-hal`. Supports debouncing, velocity sensing, and direction detection — designed to run on any HAL-compliant target with deterministic, ISR-safe code.
+### 🔩 Rotary\_Library
 
-**Stack:** ![Rust](https://img.shields.io/badge/Rust-no__std-black?style=flat-square&logo=rust) ![embedded-hal](https://img.shields.io/badge/embedded--hal-4.x-orange?style=flat-square) ![RTIC](https://img.shields.io/badge/RTIC%20v2-compatible-5c2d91?style=flat-square)
+> **`#[no_std]` Rust crate for rotary encoders** — built on `embedded-hal 4.x`. Supports debouncing, velocity sensing, and direction detection. Deterministic and ISR-safe, runs on any HAL-compliant embedded target.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-Rotary__Library-181717?style=flat-square&logo=github)](https://github.com/MonibMo/Rotary_Library)
+![Rust](https://img.shields.io/badge/Rust-no__std-black?style=flat-square&logo=rust)
+![embedded-hal](https://img.shields.io/badge/embedded--hal-4.x-orange?style=flat-square)
+![RTIC](https://img.shields.io/badge/RTIC%20v2-compatible-5c2d91?style=flat-square)
 
 ---
 
@@ -343,11 +349,7 @@ fn engineer_creed() {
 
 ---
 
-<!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
-
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
 
 *Built with* 🦀 *Rust — memory-safe from header to footer.*
 
