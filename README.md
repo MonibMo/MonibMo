@@ -46,7 +46,7 @@ impl Monib {
         Self {
             role:     "CEO & Embedded Systems Architect",
             company:  "Nexora",
-            location: "Berlin, Germany 🇩🇪",
+            location: "Karaj, Irnn",
             expertise: [
                 "Embedded Rust · RTIC v2 · Real-Time Systems",
                 "Analog & Digital Electronics Design",
