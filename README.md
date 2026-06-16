@@ -4,7 +4,7 @@
 
 [![Header](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=48&pause=99999&color=FFFFFF&center=true&vCenter=true&width=800&height=90&lines=Monib+Mokhtari)](https://github.com/MonibMo)
 
-[![Subtitle](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=99999&color=A8D8E0&center=true&vCenter=true&width=800&height=30&lines=CEO+%40+Micromed+%7C+Embedded+Rust+Engineer+%7C+Electronics+%26+PCB+Designer)](https://github.com/MonibMo)
+[![Subtitle](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&pause=99999&color=A8D8E0&center=true&vCenter=true&width=800&height=30&lines=CEO+%40+Nexora+%7C+Embedded+Rust+Engineer+%7C+Electronics+%26+PCB+Designer)](https://github.com/MonibMo)
 
 <!-- ═══════════════════════════════════════════════════  TYPING SVG  ═══════════════════════════════════════════════════ -->
 
@@ -31,7 +31,7 @@
 #![no_main]
 
 use rtic::app;
-use micromed::prelude::*;
+use nexora::prelude::*;
 
 pub struct Monib {
     role:        &'static str,
@@ -45,8 +45,8 @@ impl Monib {
     pub const fn new() -> Self {
         Self {
             role:     "CEO & Embedded Systems Architect",
-            company:  "Micromed",
-            location: "Iran 🇮🇷",
+            company:  "Nexora",
+            location: "Berlin, Germany 🇩🇪",
             expertise: [
                 "Embedded Rust · RTIC v2 · Real-Time Systems",
                 "Analog & Digital Electronics Design",
@@ -60,7 +60,7 @@ impl Monib {
     }
 }
 
-#[app(device = micromed_bsp, peripherals = true, dispatchers = [EXTI0])]
+#[app(device = nexora_bsp, peripherals = true, dispatchers = [EXTI0])]
 mod app {
     #[init]
     fn init(cx: init::Context) -> (Shared, Local) {
@@ -269,7 +269,7 @@ mod app {
    ┌──────▼──────┐             ┌───────▼───────┐           ┌───────▼───────┐
    │  FIRMWARE   │             │  ELECTRONICS  │           │  LEADERSHIP   │
    │─────────────│             │───────────────│           │───────────────│
-   │ RTIC v2     │             │ Analog Design │           │ CEO Micromed  │
+   │ RTIC v2     │             │ Analog Design │           │ CEO Nexora    │
    │ embedded-hal│             │ Digital Logic │           │ Team Building │
    │ async Rust  │             │ PCB Layout    │           │ Arch Decisions│
    │ no_std      │             │ Schematics    │           │ Product Road  │
@@ -322,7 +322,7 @@ fn engineer_creed() {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/monib-mokhtari-148102390)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MonibMo)
-[![Micromed](https://img.shields.io/badge/Micromed-Company-2c5364?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)](https://github.com/MonibMo)
+[![Nexora](https://img.shields.io/badge/Nexora-Website-2c5364?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMiAxNWwtNS01IDEuNDEtMS40MUwxMCAxNC4xN2w3LjU5LTcuNTlMMTkgOGwtOSA5eiIvPjwvc3ZnPg==)](https://nexora-embedded.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B98%20933%20553%205372-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+989335535372)
 
 </div>
